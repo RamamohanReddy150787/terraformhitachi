@@ -1,0 +1,2 @@
+export TF_VAR_vpc_cidr_block="10.1.0.0/24"
+export TF_VAR_vpc_name="amit.03-vpc"
