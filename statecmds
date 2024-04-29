@@ -1,0 +1,5 @@
+diff terraform.tfstate terraform.tfstate.backup
+terraform state push terraform.tfstate.backup
+terraform state list
+terraform output
+
